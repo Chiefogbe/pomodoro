@@ -1,0 +1,36 @@
+body{
+  background-color: cornflowerblue;
+}
+
+.big-con{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-top: 50px;
+}
+
+.span-div{
+  margin: 0 auto;
+  text-align: center;
+  font-size:xx-large;
+  font-weight: bolder;
+}
+
+#btn-start{
+  padding: 9px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: rgb(19, 161, 28)
+}
+
+#btn-reset{
+  padding: 9px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: rgb(152, 147, 147);
+}
+
+
+#btn-stop{
+  padding: 9px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: rgba(230, 48, 12, 0.958)
+}
